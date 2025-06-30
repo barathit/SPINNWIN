@@ -1,22 +1,26 @@
 # 🎯 SpinWin
 
-**SpinWin** is a full-stack web application built with **React.js (frontend)** and **Node.js + Express + MongoDB (backend)**. It allows users to create and spin interactive wheels — perfect for giveaways, raffles, and fun use cases.
+**SpinWin** is a full-stack web app where users can create, customize, and spin interactive wheels — perfect for gamification, giveaways, and decision-making. Built with a React.js frontend and a Node.js + MongoDB backend powered by RESTful APIs.
 
+---
 
 ## 🔗 Live Demo
 
- []
+🚧 Coming Soon...
 
+---
 
 ## 🛠️ Tech Stack
 
 ### 💻 Frontend
 - React.js
-- CSS3 (custom responsive design)
-### 🔧 Backend
-- Node.js
-- Express.js
-- MongoDB (Mongoose)
-- CORS, dotenv
+- Custom CSS (Fully Responsive)
+
+### 🔧 Backend (RESTful API)
+- Node.js + Express.js
+- MongoDB + Mongoose
+- RESTful API Architecture
+- CORS, dotenv, nodemon
+
 
 
